@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Didot LTStd';
+    src: local('Didot LTStd Regular'), local('Didot-LTStd-Regular'), url('https://cdn.xor.inc/wp-content/themes/xor_v6/assets/fonts/DidotLTStd-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.alt-font {
+    font-family: "Didot LTStd", sans-serif;
+}

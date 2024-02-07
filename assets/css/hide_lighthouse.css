@@ -1,0 +1,10 @@
+#main #content > *,
+#choose_language,
+.flatsome-cookies.dark.flatsome-cookies--active {
+    display: none;
+}
+
+#main #content > :nth-child(1),
+#main #content > :nth-child(2) {
+    display: block;
+}
